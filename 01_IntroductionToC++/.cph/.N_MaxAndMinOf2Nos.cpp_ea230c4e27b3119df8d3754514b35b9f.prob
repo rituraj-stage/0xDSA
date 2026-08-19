@@ -1,0 +1,1 @@
+{"name":"Local: N_MaxAndMinOf2Nos","url":"c:\\New folder\\DSA\\01_IntroductionToC++\\N_MaxAndMinOf2Nos.cpp","tests":[{"id":1787152437277,"input":"12 9","output":"Min = 9\nMax = 12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\01_IntroductionToC++\\N_MaxAndMinOf2Nos.cpp","group":"local","local":true}

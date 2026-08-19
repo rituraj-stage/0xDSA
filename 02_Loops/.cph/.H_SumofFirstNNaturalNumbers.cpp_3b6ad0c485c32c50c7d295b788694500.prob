@@ -1,0 +1,1 @@
+{"name":"Local: H_SumofFirstNNaturalNumbers","url":"c:\\New folder\\DSA\\02_Loops\\H_SumofFirstNNaturalNumbers.cpp","tests":[{"id":1787156551038,"input":"5","output":"15"},{"id":1787156556357,"input":"10","output":"55"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\02_Loops\\H_SumofFirstNNaturalNumbers.cpp","group":"local","local":true}

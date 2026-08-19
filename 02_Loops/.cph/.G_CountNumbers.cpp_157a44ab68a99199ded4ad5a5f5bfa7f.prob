@@ -1,0 +1,1 @@
+{"name":"Local: G_CountNumbers","url":"c:\\New folder\\DSA\\02_Loops\\G_CountNumbers.cpp","tests":[{"id":1787156518848,"input":"5\n-2 0 3 7 -5","output":"2\n2\n2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\02_Loops\\G_CountNumbers.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: M_PassOrFail","url":"c:\\New folder\\DSA\\01_IntroductionToC++\\M_PassOrFail.cpp","tests":[{"id":1787152402873,"input":"36","output":"Pass"},{"id":1787152416001,"input":"20","output":"Fail"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\01_IntroductionToC++\\M_PassOrFail.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: N_Palindrome","url":"c:\\New folder\\DSA\\02_Loops\\N_Palindrome.cpp","tests":[{"id":1787156828682,"input":"121","output":"YES"},{"id":1787156837652,"input":"1950","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\02_Loops\\N_Palindrome.cpp","group":"local","local":true}

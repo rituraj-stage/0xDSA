@@ -1,0 +1,1 @@
+{"name":"Local: O_MaxAndMinOf3Nos","url":"c:\\New folder\\DSA\\01_IntroductionToC++\\O_MaxAndMinOf3Nos.cpp","tests":[{"id":1787152455930,"input":"12 9 15","output":"Min = 9\nMax = 15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\01_IntroductionToC++\\O_MaxAndMinOf3Nos.cpp","group":"local","local":true}

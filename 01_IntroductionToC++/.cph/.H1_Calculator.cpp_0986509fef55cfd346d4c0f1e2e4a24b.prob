@@ -1,0 +1,1 @@
+{"name":"Local: H1_Calculator","url":"c:\\New folder\\DSA\\01_IntroductionToC++\\H1_Calculator.cpp","tests":[{"id":1787152231393,"input":"6 4","output":"6 + 4 = 10\n6 - 4 = 2\n6 * 4 = 24\n6 / 4 = 1\n6 % 4 = 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\01_IntroductionToC++\\H1_Calculator.cpp","group":"local","local":true}
