@@ -1,0 +1,1 @@
+{"name":"Local: C_Square","url":"c:\\New folder\\DSA\\03_PatternPrinting\\C_Square.cpp","tests":[{"id":1787428616897,"input":"5","output":"*****\n*****\n*****\n*****\n*****"},{"id":1787428627404,"input":"2","output":"**\n**"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\03_PatternPrinting\\C_Square.cpp","group":"local","local":true}
