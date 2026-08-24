@@ -1,0 +1,1 @@
+{"name":"Local: B_IsVowel","url":"c:\\New folder\\DSA\\04_Contest-I\\B_IsVowel.cpp","tests":[{"id":1787580481906,"input":"a","output":"YES"},{"id":1787580488372,"input":"b","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\04_Contest-I\\B_IsVowel.cpp","group":"local","local":true}

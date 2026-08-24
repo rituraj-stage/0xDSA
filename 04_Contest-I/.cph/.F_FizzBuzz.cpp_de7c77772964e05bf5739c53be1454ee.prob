@@ -1,0 +1,1 @@
+{"name":"Local: F_FizzBuzz","url":"c:\\New folder\\DSA\\04_Contest-I\\F_FizzBuzz.cpp","tests":[{"id":1787580601270,"input":"15","output":"1\n2\nFizz\n4\nBuzz\nFizz\n7\n8\nFizz\nBuzz\n11\nFizz\n13\n14\nFizzBuzz"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\04_Contest-I\\F_FizzBuzz.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+// https://codeforces.com/group/4vcXCPx8NY/contest/667712/problem/F

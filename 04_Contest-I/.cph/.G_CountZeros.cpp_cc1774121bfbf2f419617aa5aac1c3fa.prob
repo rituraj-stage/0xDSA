@@ -1,0 +1,1 @@
+{"name":"Local: G_CountZeros","url":"c:\\New folder\\DSA\\04_Contest-I\\G_CountZeros.cpp","tests":[{"id":1787580625856,"input":"102030","output":"3"},{"id":1787580632255,"input":"0","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\04_Contest-I\\G_CountZeros.cpp","group":"local","local":true}
