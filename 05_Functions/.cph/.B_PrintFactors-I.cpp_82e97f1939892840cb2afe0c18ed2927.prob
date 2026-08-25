@@ -1,0 +1,1 @@
+{"name":"Local: B_PrintFactors-I","url":"c:\\New folder\\DSA\\05_Functions\\B_PrintFactors-I.cpp","tests":[{"id":1787656727079,"input":"12","output":"1 2 3 4 6 12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\05_Functions\\B_PrintFactors-I.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: G_PrintPrimesFrom1ToN","url":"c:\\New folder\\DSA\\05_Functions\\G_PrintPrimesFrom1ToN.cpp","tests":[{"id":1787656843515,"input":"10","output":"2 3 5 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\05_Functions\\G_PrintPrimesFrom1ToN.cpp","group":"local","local":true}

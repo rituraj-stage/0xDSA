@@ -1,0 +1,1 @@
+{"name":"Local: E_Factorial","url":"c:\\New folder\\DSA\\05_Functions\\E_Factorial.cpp","tests":[{"id":1787656790914,"input":"5","output":"120"},{"id":1787656799555,"input":"7","output":"5040"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\05_Functions\\E_Factorial.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: H_CountZeros","url":"c:\\New folder\\DSA\\05_Functions\\H_CountZeros.cpp","tests":[{"id":1787656866399,"input":"102030","output":"3"},{"id":1787656873736,"input":"0","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\05_Functions\\H_CountZeros.cpp","group":"local","local":true}

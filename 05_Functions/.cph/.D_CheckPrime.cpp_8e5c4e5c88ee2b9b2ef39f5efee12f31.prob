@@ -1,0 +1,1 @@
+{"name":"Local: D_CheckPrime","url":"c:\\New folder\\DSA\\05_Functions\\D_CheckPrime.cpp","tests":[{"id":1787656763793,"input":"17","output":"Prime"},{"id":1787656772044,"input":"4","output":"Not Prime"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\05_Functions\\D_CheckPrime.cpp","group":"local","local":true}
