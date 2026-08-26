@@ -1,0 +1,1 @@
+{"name":"Local: G_RCBWinsAgain","url":"c:\\New folder\\DSA\\07_Contest-II\\G_RCBWinsAgain.cpp","tests":[{"id":1787769314753,"input":"6\n10 20 30 40 50 60","output":"30 40 20 50 10 60"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\07_Contest-II\\G_RCBWinsAgain.cpp","group":"local","local":true}
