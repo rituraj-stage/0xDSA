@@ -5,8 +5,9 @@ using namespace std;
 void solve(int a[] , int n , int b[] , int m){
     for(int i = 0 ; i < n ; i++){
         for(int j = 0 ; j < m ; j++){
-            if(a[i] == a[j]){
-                cout << a[j] << " ";
+            if(a[i] == b[j]){
+                cout << a[i] << " ";
+                b[j] = -1;
                 break;
             }
         }
