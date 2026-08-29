@@ -9,7 +9,7 @@ int main(){
     while(t--){
         int n;
         cin >> n;
-        if(18 % n == 0 || n % 45 == 0){
+        if(n % 45 == 0 || 18 % n == 0 ){
             count++;
         }
     }
