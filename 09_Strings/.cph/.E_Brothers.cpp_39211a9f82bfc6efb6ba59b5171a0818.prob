@@ -1,0 +1,1 @@
+{"name":"Local: E_Brothers","url":"c:\\New folder\\DSA\\09_Strings\\E_Brothers.cpp","tests":[{"id":1788157898025,"input":"Ali Hassan\nOmar Hassan","output":"YES"},{"id":1788157912107,"input":"Alice Singh\nBob Kumar","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\09_Strings\\E_Brothers.cpp","group":"local","local":true}

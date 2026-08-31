@@ -1,0 +1,1 @@
+{"name":"Local: B_ASCIItoCharacter","url":"c:\\New folder\\DSA\\09_Strings\\B_ASCIItoCharacter.cpp","tests":[{"id":1788157776570,"input":"65","output":"A"},{"id":1788157782345,"input":"97","output":"a"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\09_Strings\\B_ASCIItoCharacter.cpp","group":"local","local":true}

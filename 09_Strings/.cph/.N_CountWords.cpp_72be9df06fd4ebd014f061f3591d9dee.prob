@@ -1,0 +1,1 @@
+{"name":"Local: N_CountWords","url":"c:\\New folder\\DSA\\09_Strings\\N_CountWords.cpp","tests":[{"id":1788158316279,"input":"hello world this is CP","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\09_Strings\\N_CountWords.cpp","group":"local","local":true}

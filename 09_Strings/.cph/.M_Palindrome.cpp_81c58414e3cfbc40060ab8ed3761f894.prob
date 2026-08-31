@@ -1,0 +1,1 @@
+{"name":"Local: M_Palindrome","url":"c:\\New folder\\DSA\\09_Strings\\M_Palindrome.cpp","tests":[{"id":1788158282250,"input":"racecar","output":"YES"},{"id":1788158292043,"input":"hello","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\09_Strings\\M_Palindrome.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: H_RemoveCharacter","url":"c:\\New folder\\DSA\\09_Strings\\H_RemoveCharacter.cpp","tests":[{"id":1788158011036,"input":"abacaba\na","output":"bcb"},{"id":1788158021909,"input":"aaaa\na","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\09_Strings\\H_RemoveCharacter.cpp","group":"local","local":true}
