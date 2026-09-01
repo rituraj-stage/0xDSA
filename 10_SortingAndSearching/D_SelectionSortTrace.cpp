@@ -13,7 +13,7 @@ int findMin(int a[] , int i , int n){
     }
     return minIndex;
 }
-void selectionSort(int a[] , int n){
+void selectionSortTrace(int a[] , int n){
     int  i = 0 ;
     while(i < n-1){
         int minIndex = findMin(a , i , n);
@@ -29,6 +29,19 @@ void selectionSort(int a[] , int n){
         cout << ", min_selected = " << min << endl;
     }
 }
+void selectionSort(int a[] , int n){
+    for(int i = 0 ; i < n-1 ; i++){
+        int min = a[i];
+        int minLoc = i ;
+        for(int j = i+1 ; j < n ; j++){
+            if(a[j] < min){
+                min = a[j];
+                minLoc = j;
+            }
+        }
+        swap(a[i] , a[minLoc]);
+    }
+}
 int main(){
     int n;
     cin >> n;
@@ -36,5 +49,6 @@ int main(){
     for(int i = 0 ; i < n ; i++){
         cin >> a[i];
     }
-    selectionSort(a , n);
+    selectionSortTrace(a , n);
+    // selectionSort(a , n);
 }
