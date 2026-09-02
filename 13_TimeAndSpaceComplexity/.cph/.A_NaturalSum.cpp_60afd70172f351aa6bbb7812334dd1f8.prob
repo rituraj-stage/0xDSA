@@ -1,0 +1,1 @@
+{"name":"Local: A_NaturalSum","url":"c:\\New folder\\DSA\\13_TimeAndSpaceComplexity\\A_NaturalSum.cpp","tests":[{"id":1788373847642,"input":"5","output":"15"},{"id":1788373855961,"input":"10","output":"55"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\13_TimeAndSpaceComplexity\\A_NaturalSum.cpp","group":"local","local":true}

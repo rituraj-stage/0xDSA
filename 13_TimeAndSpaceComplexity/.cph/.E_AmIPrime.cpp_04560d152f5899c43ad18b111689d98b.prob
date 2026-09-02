@@ -1,0 +1,1 @@
+{"name":"Local: E_AmIPrime","url":"c:\\New folder\\DSA\\13_TimeAndSpaceComplexity\\E_AmIPrime.cpp","tests":[{"id":1788373948582,"input":"12","output":"NO"},{"id":1788373953408,"input":"17","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\13_TimeAndSpaceComplexity\\E_AmIPrime.cpp","group":"local","local":true}
