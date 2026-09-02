@@ -1,0 +1,1 @@
+{"name":"Local: F_StringCompression","url":"c:\\New folder\\DSA\\11_MixedPractice\\F_StringCompression.cpp","tests":[{"id":1788327032967,"input":"2\naaabbddccc\nggttttffffrreee","output":"a3b2d2c3\ng2t4f4r2e3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\11_MixedPractice\\F_StringCompression.cpp","group":"local","local":true}
