@@ -1,0 +1,1 @@
+{"name":"Local: E_ToggleMe!","url":"c:\\New folder\\DSA\\12_Contest-III\\E_ToggleMe!.cpp","tests":[{"id":1788373332562,"input":"HeLLo","output":"hEllO"},{"id":1788373349707,"input":"aBc","output":"AbC"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\12_Contest-III\\E_ToggleMe!.cpp","group":"local","local":true}
