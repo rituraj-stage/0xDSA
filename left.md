@@ -5,7 +5,7 @@
     `https://codeforces.com/group/4vcXCPx8NY/contest/674948/problem/I`
 - First 4 problems left to solve from Mixed Practice Set. (solved)
     `https://codeforces.com/group/4vcXCPx8NY/contest/674948`
-- Contest III
+- Contest III (solved)
     `https://codeforces.com/group/4vcXCPx8NY/contest/675648`
 - Time & Space Complexity (Last 3 questions left)
     `https://codeforces.com/group/4vcXCPx8NY/contest/676977`
