@@ -9,7 +9,9 @@
     `https://codeforces.com/group/4vcXCPx8NY/contest/675648`
 - Time & Space Complexity (Last 3 questions left)
     `https://codeforces.com/group/4vcXCPx8NY/contest/676977`
-- PrefixSum (some ques left)
+- PrefixSum (two ques left)
+    `https://codeforces.com/group/4vcXCPx8NY/contest/678202/problem/J`
+    `https://codeforces.com/group/4vcXCPx8NY/contest/678202/problem/N`
 
 ##Contest Option for begineer
 - Atcoder begineer contest
