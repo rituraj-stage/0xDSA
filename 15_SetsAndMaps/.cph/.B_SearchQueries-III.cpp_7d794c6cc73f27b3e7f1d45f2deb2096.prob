@@ -1,0 +1,1 @@
+{"name":"Local: B_SearchQueries-III","url":"c:\\New folder\\DSA\\15_SetsAndMaps\\B_SearchQueries-III.cpp","tests":[{"id":1789406740109,"input":"5 6\n10 -3 7 0 20\n-3\n7\n5\n10\n21\n20","output":"2\n3\n-1\n1\n-1\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\15_SetsAndMaps\\B_SearchQueries-III.cpp","group":"local","local":true}
