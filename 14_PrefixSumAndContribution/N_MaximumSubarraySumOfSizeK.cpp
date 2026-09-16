@@ -1,6 +1,7 @@
 // https://codeforces.com/group/4vcXCPx8NY/contest/678202/problem/N
 
 #include<iostream>
+#include <climits>
 using namespace std;
 #define int long long
 signed main(){
@@ -10,7 +11,7 @@ signed main(){
     for(int i = 0 ; i < n ; i++){
         cin >> a[i];
     }
-    int max = 0;
+    int max = INT_MIN;
     for(int l = 0 ; l < n ; l++){
         for(int r = l ; r < n ; r++){
             int sum = 0 ;
