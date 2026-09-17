@@ -11,5 +11,10 @@ signed main(){
     for(int i = 0 ; i < n ; i++){
         cin >> a[i];
     }
-    
+    map<int , int> mp;
+    for(int i = 0 ; i < q ; i++){
+        int temp;
+        cin >> temp;
+        
+    }
 }
