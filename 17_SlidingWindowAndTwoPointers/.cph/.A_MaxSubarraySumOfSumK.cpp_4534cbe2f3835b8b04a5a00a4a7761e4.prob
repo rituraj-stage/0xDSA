@@ -1,0 +1,1 @@
+{"name":"Local: A_MaxSubarraySumOfSumK","url":"c:\\New folder\\DSA\\17_SlidingWindowAndTwoPointers\\A_MaxSubarraySumOfSumK.cpp","tests":[{"id":1790257931059,"input":"5 3\n2 1 5 1 3","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\17_SlidingWindowAndTwoPointers\\A_MaxSubarraySumOfSumK.cpp","group":"local","local":true}
