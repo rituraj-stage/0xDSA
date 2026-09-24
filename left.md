@@ -12,6 +12,12 @@
 - PrefixSum (two ques left)
     `https://codeforces.com/group/4vcXCPx8NY/contest/678202/problem/J`
     `https://codeforces.com/group/4vcXCPx8NY/contest/678202/problem/N`
+- Sets and Maps (11 ques)
+    `https://codeforces.com/group/4vcXCPx8NY/contest/680024`
+- Contest IV (8 ques)
+    `https://codeforces.com/group/4vcXCPx8NY/contest/681135`
+- Sliding Window and Two Pointers (10 ques)
+    `https://codeforces.com/group/4vcXCPx8NY/contest/681788`
 
 ##Contest Option for begineer
 - Atcoder begineer contest
