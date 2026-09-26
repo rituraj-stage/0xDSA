@@ -30,7 +30,7 @@ int insertionSort(int a[] , int n){
             shift++;
             j--;
         }
-        a[j] = temp;
+        a[j+1] = temp;
     }
     return shift;
 }
@@ -38,12 +38,14 @@ void solve(){
     int n;
     cin >> n;
     int a[n];
+    int b[n];
     for(int i = 0 ; i < n ; i++){
         cin >> a[i] ;
+        b[i] = a[i];
     }
     int shift = insertionSort(a , n);
-    int swaps = selectionSort(a , n);
-    cout << shift << " " << swaps << endl;
+    int swaps = selectionSort(b , n);
+    // cout << shift << " " << swaps << endl;
     if(shift < swaps){
         cout << "Insertion Sort" << endl;
     }

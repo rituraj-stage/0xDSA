@@ -1,11 +1,11 @@
 // https://codeforces.com/group/4vcXCPx8NY/contest/676977/problem/F
 
 #include<iostream>
-// #define int long long
+#define int long long
 using namespace std;
 bool solve(int n){
     int count = 0;
-    if(n == 1){
+    if(n < 1){
         return false;
     }
     for(int i = 1 ; i*i <= n ; i++ ){
@@ -26,12 +26,12 @@ bool solve(int n){
         return false;
     }
 }
-int main(){
+signed main(){
     int n;
     cin >> n;
     int count = 0;
-    while(n--){
-        bool flag = solve(n);
+    for(int i = 2 ; i <= n ; i++){
+        bool flag = solve(i);
         if(flag){
             count++;
         }
