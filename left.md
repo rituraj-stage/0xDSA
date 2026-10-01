@@ -8,7 +8,7 @@
     `https://codeforces.com/group/4vcXCPx8NY/contest/674948`
 - Contest III (solved)
     `https://codeforces.com/group/4vcXCPx8NY/contest/675648`
-- Time & Space Complexity (Last 1 question left)
+- Time & Space Complexity (Last question left)
     `https://codeforces.com/group/4vcXCPx8NY/contest/676977`
 - PrefixSum (two ques left)
     `https://codeforces.com/group/4vcXCPx8NY/contest/678202/problem/J`
