@@ -1,0 +1,1 @@
+{"name":"Local: B_SearchQueries-II","url":"c:\\New folder\\DSA\\18_BinarySearch\\B_SearchQueries-II.cpp","tests":[{"id":1791640651300,"input":"5 6\n20 7 0 -3 -10\n-3\n7\n5\n20\n-11\n-10","output":"4\n2\n-1\n1\n-1\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\New folder\\DSA\\18_BinarySearch\\B_SearchQueries-II.cpp","group":"local","local":true}
