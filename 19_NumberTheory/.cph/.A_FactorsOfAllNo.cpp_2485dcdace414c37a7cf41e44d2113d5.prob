@@ -1,0 +1,1 @@
+{"name":"Local: A_FactorsOfAllNo","url":"c:\\Switch\\DSA\\19_NumberTheory\\A_FactorsOfAllNo.cpp","tests":[{"id":1793034819006,"input":"5","output":"1\n1 2\n1 3\n1 2 4\n1 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Switch\\DSA\\19_NumberTheory\\A_FactorsOfAllNo.cpp","group":"local","local":true}
