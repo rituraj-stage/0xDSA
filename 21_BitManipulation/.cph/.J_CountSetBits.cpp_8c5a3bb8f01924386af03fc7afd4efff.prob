@@ -1,0 +1,1 @@
+{"name":"Local: J_CountSetBits","url":"c:\\Switch\\DSA\\21_BitManipulation\\J_CountSetBits.cpp","tests":[{"id":1793293529182,"input":"5","output":"2"},{"id":1793293532848,"input":"31","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Switch\\DSA\\21_BitManipulation\\J_CountSetBits.cpp","group":"local","local":true}

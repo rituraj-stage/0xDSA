@@ -1,0 +1,1 @@
+{"name":"Local: E_BitwiseOperator-I","url":"c:\\Switch\\DSA\\21_BitManipulation\\E_BitwiseOperator-I.cpp","tests":[{"id":1793293357398,"input":"0 5","output":"0 5 5"},{"id":1793293366958,"input":"5 3","output":"1 7 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Switch\\DSA\\21_BitManipulation\\E_BitwiseOperator-I.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: B_BreakdownN","url":"c:\\Switch\\DSA\\21_BitManipulation\\B_BreakdownN.cpp","tests":[{"id":1793285134798,"input":"9","output":"8 1"},{"id":1793285143297,"input":"31","output":"16 8 4 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Switch\\DSA\\21_BitManipulation\\B_BreakdownN.cpp","group":"local","local":true}

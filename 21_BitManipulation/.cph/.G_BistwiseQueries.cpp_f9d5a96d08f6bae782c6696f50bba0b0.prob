@@ -1,0 +1,1 @@
+{"name":"Local: G_BistwiseQueries","url":"c:\\Switch\\DSA\\21_BitManipulation\\G_BistwiseQueries.cpp","tests":[{"id":1793293437223,"input":"5 3\n1 0\n2 1\n4 0","output":"YES\n7\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Switch\\DSA\\21_BitManipulation\\G_BistwiseQueries.cpp","group":"local","local":true}
